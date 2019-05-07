@@ -1,12 +1,3 @@
-
-
-// var credit = Number(prompt("mebleg:"));
-// var month = Number(prompt("Muddeti daxil edin (ayla):"));
-
-// if((!isNaN(credit)) && (!isNaN(month))){
-// }
-
-
 // 1-ci tapsiriq. mertebelerin sayinin tapilmasi
 
 // var eded = Number(prompt("Ededi daxil edin:"));
